@@ -15,3 +15,7 @@ insert into employees (id,name,address,salary)
 value(1,'joy','Andheri-West',56000);
 insert into employees (id,name,address,salary)
 value(2,'neha','Kandivali-West',58000);
+
+select * from employees;
+
+truncate employees;

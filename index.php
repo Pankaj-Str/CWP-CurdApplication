@@ -78,7 +78,6 @@
                     } else{
                         echo "Oops! Something went wrong. Please try again later.";
                     }
- 
                     // Close connection
                     mysqli_close($link);
                     ?>
